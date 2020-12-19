@@ -1,4 +1,4 @@
-package Section3.PrimitiveTypes.ByteShortIntLong;
+package Section3.PrimitiveTypes.ByteShortIntLong.ByteShortIntLong;
 
 public class ByteShortIntLong {
     public static void main(String[] args) {
